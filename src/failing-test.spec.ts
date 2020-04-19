@@ -1,7 +1,4 @@
-'use strict'
-
-const chai = require('chai')
-const expect = chai.expect
+import { expect } from 'chai'
 
 describe('A failing test', function () {
   it('should fail', function () {

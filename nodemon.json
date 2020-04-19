@@ -1,0 +1,8 @@
+{
+  "delay": 2000,
+  "ext": "ts",
+  "watch": [
+    "src"
+  ],
+  "exec": "npx tsc -p . && npx mocha"
+}
